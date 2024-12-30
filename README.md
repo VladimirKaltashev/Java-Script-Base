@@ -14,10 +14,10 @@
 
 ## Структура проекта
 javascript-calculator/
-├── index.html      # HTML-файл с разметкой калькулятора
-├── style.css       # CSS-файл со стилями калькулятора
-└── script.js       # JavaScript-файл с логикой калькулятора
-└── README.md       # Этот файл
+index.html      # HTML-файл с разметкой калькулятора
+style.css       # CSS-файл со стилями калькулятора
+script.js       # JavaScript-файл с логикой калькулятора
+README.md       # Этот файл
 
 ## Как запустить
 
